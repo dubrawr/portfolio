@@ -48,10 +48,12 @@ nav div ul li:hover {
   cursor: pointer;
 }
 
-a {color: white;
-  text-decoration: none;
+a, a.jumper {color: white;
 }
 
+.things {font-size: 40px; margin-top: 20px;}
+.things>ul {padding: 0;}
+.things>ul>li {display: inline-block; text-align: center;}
 a:visited {
   color: inherit;
 }
@@ -68,7 +70,12 @@ img {border: 2px black solid; margin: 0 20px; margin-bottom: 40px;}
   img {margin: 0 auto;}
   #portfolio {
     width: 100%;
+    margin-top: 50px;
   }
-
-  ul.links {padding: 0;}
+  ul.code>li {display: block;}
+  ul.links {padding: 0; text-align: center; margin-left: auto; margin-right: auto; margin-bottom: 10px;}
+  div.name {text-align: center; display: block;}
+  .navbar .links {float: none;}
+  .navbar .links li {margin: 0 auto; display: block; padding: 5px; border: 2px solid white;}
+  .padding {padding-top: 50px;}
 }
