@@ -74,8 +74,8 @@ img {border: 2px black solid; margin: 0 20px; margin-bottom: 40px;}
   }
   ul.code>li {display: block;}
   ul.links {padding: 0; text-align: center; margin-left: auto; margin-right: auto; margin-bottom: 10px;}
-  div.name {text-align: center; display: block;}
-  .navbar .links {float: none;}
+  div.name {text-align: center; display: block; font-size: 20px;}
+  .navbar .links {float: none; margin-top: 5px;}
   .navbar .links li {margin: 0 auto; display: block; padding: 5px; border: 2px solid white;}
-  .padding {padding-top: 50px;}
+  .padding {padding-top: 20px;}
 }
