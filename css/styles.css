@@ -42,7 +42,7 @@ footer div ul li {display: inline-block; margin-left: 50px; font-size: 20px; mar
   color: white;
 }
 
-
+img {display: block;}
 
 nav div ul li:hover {
   cursor: pointer;
@@ -57,10 +57,10 @@ a, a.jumper {color: white;
 a:visited {
   color: inherit;
 }
-
+.piece {margin-bottom: 40px; font-size: 16px;}
 #portfolio {padding-top: 200px; width: 970px; margin: 0 auto;  text-align: center;}
 #resume {padding-top:200px; margin:0 auto; text-align: center;}
-img {border: 2px black solid; margin: 0 20px; margin-bottom: 40px;}
+img {border: 2px #19706f solid; margin: 0 auto;}
 
 @media only screen and (max-width: 600px) {
   .image {
