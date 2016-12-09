@@ -57,7 +57,8 @@ a, a.jumper {color: white;
 a:visited {
   color: inherit;
 }
-.piece {margin-bottom: 40px; font-size: 16px; color: black;}
+.piece {margin-bottom: 40px; font-size: 16px;}
+div.piece > a {color: black;}
 #portfolio {padding-top: 200px; width: 970px; margin: 0 auto;  text-align: center;}
 #resume {padding-top:200px; margin:0 auto; text-align: center;}
 img {border: 2px #19706f solid; margin: 0 auto;}
