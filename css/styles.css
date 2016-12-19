@@ -14,6 +14,8 @@ footer {width: 100%; background-color:#19706f; text-align: center; margin-top: 1
 footer div ul li {display: inline-block; margin-left: 50px; font-size: 20px; margin-top: 20px; margin-right:50px;}
 .info{padding: 0px;}
 
+p {margin-top: 10px;}
+
 .name {
   display: inline-block;
   font-size: 40px;
@@ -63,7 +65,7 @@ a:visited {
 #resume, #bio {padding-top:200px; margin:0 auto; text-align: center;}
 img {border: 2px #c5c5c5 solid; margin: 0 auto;}
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
   .image {
     display: block;
     margin-bottom: 10px;
