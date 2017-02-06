@@ -70,7 +70,7 @@ a:visited {
 .linkColor {color: black;}
 #portfolio {padding-top: 100px; width: 970px; margin: 0 auto;  text-align: center;}
 #resume, #bio {padding-top:100px; margin:0 auto; text-align: center;}
-#bio {width:1140px;}
+#bio {width:970px;}
 img {border: 2px #c5c5c5 solid; margin: 0 auto;}
 
 @media only screen and (max-width: 1000px) {
