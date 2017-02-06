@@ -73,13 +73,13 @@ a:visited {
 #bio {width:1140px;}
 img {border: 2px #c5c5c5 solid; margin: 0 auto;}
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 1000px) {
   .image {
     display: block;
     margin-bottom: 10px;
     width: 100%;
   }
-  #bio {width: 100%;}
+  #bio, #resume {width: 100%;}
   img {margin: 0 auto; width: 100%;}
   #portfolio {
     width: 100%;
@@ -89,6 +89,6 @@ img {border: 2px #c5c5c5 solid; margin: 0 auto;}
 /*  ul.links {padding: 0; text-align: center; margin-left: auto; margin-right: auto; margin-bottom: 10px;}*/
   div.name {text-align: center; display: block; font-size: 20px;}
 /*  .navbar .links {float: none; margin-top: 5px;}*/
-  .navbar .links li {text-align: right; margin: 0 auto; display: block; padding: 5px; border: 1px solid white;}
+ /* .navbar .links li {text-align: right; margin: 0 auto; display: block; padding: 5px; border: 1px solid white;}*/
   .padding {padding-top: 20px;}
 }
