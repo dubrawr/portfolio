@@ -52,7 +52,7 @@ nav div ul li:hover {
 
 #footer {background-color: black; width: 100%; height: 40px; padding: 0px; margin-top: 100px;}
 
-.smallerText{font-size: 0.5em; margin-top: 5px;}
+.smallerText{font-size: 0.75em; margin-top: 5px;}
 ul {padding: 0;}
 
 .center {margin: 0 auto; text-align: center; color: white; list-style-type: none; padding-top:10px;}
@@ -60,17 +60,17 @@ ul {padding: 0;}
 a, a.jumper {color: white;
 }
 
-.things {font-size: 40px; margin-top: 20px;}
+.things {font-size: 30px; margin-top: 20px;}
 .things>ul {padding: 0;}
 .things>ul>li {display: inline-block; text-align: center;}
 a:visited {
-  color: inherit;
+  color: white;
 }
 .piece {margin-bottom: 40px; font-size: 16px;}
 .linkColor {color: black;}
 #portfolio {padding-top: 100px; width: 970px; margin: 0 auto;  text-align: center;}
-#resume, #bio {padding-top:100px; margin:0 auto; text-align: center;}
-#bio {width:970px;}
+#resume, #bio {padding-top:50px; margin:0 auto; text-align: center;}
+#bio {width:970px; }
 img {border: 2px #c5c5c5 solid; margin: 0 auto;}
 
 @media only screen and (max-width: 1000px) {
