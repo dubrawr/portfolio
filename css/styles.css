@@ -64,7 +64,7 @@ a, a.jumper {color: white;
 .things>ul {padding: 0;}
 .things>ul>li {display: inline-block; text-align: center;}
 a:visited {
-  color: white;
+  color: inherit;
 }
 .piece {margin-bottom: 40px; font-size: 16px;}
 .linkColor {color: black;}
